@@ -1,5 +1,6 @@
 Project: Calculator
 Foundations Course
+view it here: https://abongile184.github.io/calculator/
 
 Your calculator is going to contain functions for all of the basic math operators you typically find on simple calculators, so start by creating functions for the following items and testing them in your browser’s console.
 
